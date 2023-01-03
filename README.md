@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman saad</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4500&color=FF123C&center=true&vCenter=true&width=710&height=25&lines=Android+Developer+;Junior+Software+Engineer)](https://git.io/typing-svg)
-
+<h2 align="center">Computer science student,Android developer</h2>
 
 
 - 📫 How to reach me **abdulrhmansaad78@gmail.com**
