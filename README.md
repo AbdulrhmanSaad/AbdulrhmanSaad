@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman saad</h1>
 <h2 align="center">Computer science student,Android developer</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulrhmanSaad&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulrhmanSaad" /> 
+ <img src="https://img.shields.io/github/followers/AbdulrhmanSaad?label=Followers&color=0e75b6&style=flat" alt="AbdulrhmanSaad" height="21" width="100" />
+</p>
+
 
 - 📫 How to reach me **abdulrhmansaad78@gmail.com**
 
