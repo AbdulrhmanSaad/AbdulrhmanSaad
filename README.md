@@ -2,7 +2,7 @@
 <h2 align="center">Computer science student,Android developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulrhmanSaad&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulrhmanSaad" /> 
- <img src="https://img.shields.io/github/followers/AbdulrhmanSaad?label=Followers&color=0e75b6&style=flat" alt="AbdulrhmanSaad" height="21" width="100" />
+ 
 </p>
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1mqasSawMX5tAhIjuqAPDS7UcVF7t8aRI/view?usp=share_link)
