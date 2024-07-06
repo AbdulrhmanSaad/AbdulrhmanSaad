@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Abdulrahman saad</h1>
 <h2 align="center">Computer science student</h2>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Android+developer+️‍🔥✨" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+️‍🔥✨" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulrhmanSaad&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulrhmanSaad" /> 
  
 </p>
