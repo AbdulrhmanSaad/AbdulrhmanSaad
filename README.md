@@ -6,14 +6,20 @@
 </p>
 
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1mZXiV3-lgZyt8dipt7uVnpX5RmZTMgSa/view?usp=drive_link)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1gKb3lpVUZYHHRspQBusS7ivhT1ubzH3x/view?usp=drive_link)
 - 📫 How to reach me **abdulrhmansaad78@gmail.com**
-
+<h3 align="left">Current Focus:</h3>
+<p>
+ •	Building scalable and secure Web APIs with .NET Core
+ </p>
+ <p>
+ •	Optimizing database performance using Entity Framework and SQL Server
+      Learning advanced .NET features and best practices
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-saad-617aa8222" target="blank"><img align="center" 
- src
-="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahman-saad-617aa8222" height="30" width="40" /></a>
+ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahman-saad-617aa8222" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011208606409&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011208606409&mibextid=ZbWKwL" height="30" width="40" /></a>
  <a href="https://codeforces.com/profile/abdulrahman5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdulrahman5" height="30" width="40" /></a>
 </p>
